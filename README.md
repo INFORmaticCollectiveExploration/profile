@@ -1,8 +1,8 @@
-INFORCE CURVA CODE
+# INFORCE CURVA CODE
 
 Inforce Curva Code adalah ruang kolektif mahasiswa Informatika.
 
-Ruang untuk:
+## Ruang untuk:
 - belajar dan berbagi pengetahuan
 - membangun dan mengerjakan proyek
 - bereksperimen melalui labs
@@ -15,55 +15,47 @@ Inforce terbuka bagi seluruh mahasiswa Informatika.
 Tidak ada keanggotaan berdasarkan angkatan, kelas, jabatan,
 atau senioritas.
 
-READ MORE → WHAT-IS-INFORCE.md
+[READ MORE](WHAT-IS-INFORCE.md)
 
 ---
 
-START HERE
+## START HERE
 
-New here?
-→[Getting Started](docs/getting-started.md)
+**New here?→** [Getting Started](docs/getting-started.md)
 
-Want to contribute?
-→ [Contributing](CONTRIBUTING.md)
+**Want to contribute?→** [Contributing](CONTRIBUTING.md)
 
-Want to understand how Inforce works?
-→ [How It Works](HOW-IT-WORKS.md)
+**Want to understand how Inforce works?→** [How It Works](HOW-IT-WORKS.md)
 
-Want to see the rules?
-→ [Rules](CODE-OF-CONDUCT.md)
+**Want to see the rules?→** [Rules](CODE-OF-CONDUCT.md)
 
-Want to learn?
-→ [Knowledge / Resources](https://github.com/manReank)
+**Want to learn?→** [Knowledge / Resources](https://github.com/manReank)
 
-Want to build?
-→ [Projects / Labs](https://github.com/Serv40)
+**Want to build?→** [Projects / Labs](https://github.com/Serv40)
 
 ---
 
-ECOSYSTEM
+## ECOSYSTEM
 
-Knowledge
-Pengetahuan yang diproduksi dan dikembangkan bersama.
+- Knowledge
+  Pengetahuan yang diproduksi dan dikembangkan bersama.
 
-Projects
-Proyek mahasiswa yang dapat dipelajari, dikembangkan,
-dan diteruskan.
+- Projects
+  Proyek mahasiswa yang dapat dipelajari, dikembangkan,
+  dan diteruskan.
 
-Labs
-Eksperimen dan praktik teknis.
+- Labs
+  Eksperimen dan praktik teknis.
 
-Resources
-Kumpulan sumber belajar.
+- Resources
+  Kumpulan sumber belajar.
 
-Archive
-Dokumentasi perjalanan dan artefak yang perlu diwariskan.
+- Archive
+  Dokumentasi perjalanan dan artefak yang perlu diwariskan.
 
 ---
 
 LINKS
 
-Manifesto
-GitHub
-Resources
-Instagram
+[Resources](https://drive.google.com/drive/folders/1sfG23mPyrzadfgO8rg4wU-FlIEUWx_EH?usp=drive_link)
+[Instagram](https://www.instagram.com/inforce.curva.code?igsi=Y2pnZzJoa2EwaWxs)

@@ -1,4 +1,4 @@
-# code of conduct
+# Code of Conduct
 
 1. Respect contributors regardless of cohort or seniority.
 2. Criticize ideas and work, not people.
