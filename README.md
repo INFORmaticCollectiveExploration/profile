@@ -22,22 +22,22 @@ READ MORE → WHAT-IS-INFORCE.md
 START HERE
 
 New here?
-→ Getting Started
+→[Getting Started](docs/getting-started.md)
 
 Want to contribute?
-→ Contributing
+→ [Contributing](CONTRIBUTING.md)
 
 Want to understand how Inforce works?
-→ How It Works
+→ [How It Works](HOW-IT-WORKS.md)
 
 Want to see the rules?
-→ Rules
+→ [Rules](CODE-OF-CONDUCT.md)
 
 Want to learn?
-→ Knowledge / Resources
+→ [Knowledge / Resources](https://github.com/manReank)
 
 Want to build?
-→ Projects / Labs
+→ [Projects / Labs](https://github.com/Serv40)
 
 ---
 
