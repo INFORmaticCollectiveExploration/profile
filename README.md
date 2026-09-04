@@ -30,7 +30,7 @@ atau senioritas.
 
 - Want to learn? → [Knowledge](https://github.com/INFORmaticCollectiveExploration/knowledge)
 
-- Want to Experiment? → [Labs](https://github.com/INFORmaticCollectiveExploration/projec)
+- Want to Experiment? → [Labs](https://github.com/INFORmaticCollectiveExploration/project)
 
 - Want to build? → [Projects](https://github.com/INFORmaticCollectiveExploration/labs)
 
