@@ -4,16 +4,16 @@ Anyone from Informatics can contribute.
 
 You can contribute by:
 
-- writing
-- documenting
-- teaching
-- organizing a class
-- building a project
-- creating a lab
-- improving documentation
-- sharing resources
-- proposing an activity
-- maintaining existing work
+- Writing
+- Documenting
+- Teaching
+- Organizing a class
+- Building a project
+- Creating a lab
+- Improving documentation
+- Sharing resources
+- Proposing an activity
+- Maintaining existing work
 
 ## Have an idea?
 
