@@ -53,4 +53,4 @@ atau senioritas.
 
 🔗 Links 
 - [Resources](https://drive.google.com/drive/folders/1sfG23mPyrzadfgO8rg4wU-FlIEUWx_EH?usp=drive_link)
-- [Instagram](https://www.instagram.com/inforce.curva.code?igsi=Y2pnZzJoa2EwaWxs)
+- [Instagram](https://www.instagram.com/inforce.curva.code)
