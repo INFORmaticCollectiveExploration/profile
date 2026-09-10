@@ -28,11 +28,11 @@ atau senioritas.
 
 - Want to see the rules? → [Rules](CODE-OF-CONDUCT.md)
 
-- Want to learn? → [Knowledge](https://github.com/INFORmaticCollectiveExploration/knowledge)
+- Want to learn? → [Knowledge](https://github.com/INFORCE-CC/knowledge)
 
-- Want to Experiment? → [Labs](https://github.com/INFORmaticCollectiveExploration/project)
+- Want to Experiment? → [Labs](https://github.com/INFORCE-CC/project)
 
-- Want to build? → [Projects](https://github.com/INFORmaticCollectiveExploration/labs)
+- Want to build? → [Projects](https://github.com/INFORCE-CC/labs)
 
 ---
 
